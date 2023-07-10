@@ -1,0 +1,11 @@
+2023-07-10 19:05:31.958 +09:30 [INF] Now listening on: https://localhost:7037
+2023-07-10 19:05:32.060 +09:30 [INF] Now listening on: http://localhost:5056
+2023-07-10 19:05:32.071 +09:30 [INF] Application started. Press Ctrl+C to shut down.
+2023-07-10 19:05:32.073 +09:30 [INF] Hosting environment: Development
+2023-07-10 19:05:32.075 +09:30 [INF] Content root path: C:\Users\CXL\Desktop\BoolStoreApp\BookStoreApp.API\
+2023-07-10 19:05:50.967 +09:30 [INF] Made call weath endpoint
+2023-07-10 19:11:33.865 +09:30 [INF] Now listening on: https://localhost:7037
+2023-07-10 19:11:33.912 +09:30 [INF] Now listening on: http://localhost:5056
+2023-07-10 19:11:33.924 +09:30 [INF] Application started. Press Ctrl+C to shut down.
+2023-07-10 19:11:33.925 +09:30 [INF] Hosting environment: Development
+2023-07-10 19:11:33.926 +09:30 [INF] Content root path: C:\Users\CXL\Desktop\BoolStoreApp\BookStoreApp.API\
