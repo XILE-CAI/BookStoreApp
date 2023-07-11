@@ -1,0 +1,15 @@
+2023-07-11 10:08:06.952 +09:30 [INF] Now listening on: https://localhost:7037
+2023-07-11 10:08:07.019 +09:30 [INF] Now listening on: http://localhost:5056
+2023-07-11 10:08:07.026 +09:30 [INF] Application started. Press Ctrl+C to shut down.
+2023-07-11 10:08:07.027 +09:30 [INF] Hosting environment: Development
+2023-07-11 10:08:07.029 +09:30 [INF] Content root path: C:\Users\CXL\Desktop\BoolStoreApp\BookStoreApp.API\
+2023-07-11 10:42:40.923 +09:30 [INF] Now listening on: https://localhost:7037
+2023-07-11 10:42:40.983 +09:30 [INF] Now listening on: http://localhost:5056
+2023-07-11 10:42:40.990 +09:30 [INF] Application started. Press Ctrl+C to shut down.
+2023-07-11 10:42:40.992 +09:30 [INF] Hosting environment: Development
+2023-07-11 10:42:40.993 +09:30 [INF] Content root path: C:\Users\CXL\Desktop\BoolStoreApp\BookStoreApp.API\
+2023-07-11 11:10:35.720 +09:30 [INF] Now listening on: https://localhost:7037
+2023-07-11 11:10:35.768 +09:30 [INF] Now listening on: http://localhost:5056
+2023-07-11 11:10:35.775 +09:30 [INF] Application started. Press Ctrl+C to shut down.
+2023-07-11 11:10:35.777 +09:30 [INF] Hosting environment: Development
+2023-07-11 11:10:35.778 +09:30 [INF] Content root path: C:\Users\CXL\Desktop\BoolStoreApp\BookStoreApp.API\
