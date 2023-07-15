@@ -1,0 +1,43 @@
+2023-07-15 14:05:50.398 +09:30 [INF] Now listening on: https://localhost:7037
+2023-07-15 14:05:50.570 +09:30 [INF] Now listening on: http://localhost:5056
+2023-07-15 14:05:50.579 +09:30 [INF] Application started. Press Ctrl+C to shut down.
+2023-07-15 14:05:50.582 +09:30 [INF] Hosting environment: Development
+2023-07-15 14:05:50.586 +09:30 [INF] Content root path: C:\Users\CXL\Desktop\BoolStoreApp\BookStoreApp.API\
+2023-07-15 14:08:36.932 +09:30 [INF] Login Attempt for user@bookstore.com
+2023-07-15 14:08:38.978 +09:30 [WRN] Invalid password for user.
+2023-07-15 14:08:48.135 +09:30 [INF] Login Attempt for user@bookstore.com
+2023-07-15 14:08:48.202 +09:30 [WRN] Invalid password for user.
+2023-07-15 14:08:51.483 +09:30 [INF] Login Attempt for user@bookstore.com
+2023-07-15 14:08:51.501 +09:30 [WRN] Invalid password for user.
+2023-07-15 14:08:58.977 +09:30 [INF] Login Attempt for user@bookstore.com
+2023-07-15 14:37:01.135 +09:30 [INF] Now listening on: https://localhost:7037
+2023-07-15 14:37:01.194 +09:30 [INF] Now listening on: http://localhost:5056
+2023-07-15 14:37:01.200 +09:30 [INF] Application started. Press Ctrl+C to shut down.
+2023-07-15 14:37:01.201 +09:30 [INF] Hosting environment: Development
+2023-07-15 14:37:01.202 +09:30 [INF] Content root path: C:\Users\CXL\Desktop\BoolStoreApp\BookStoreApp.API\
+2023-07-15 14:40:36.372 +09:30 [INF] Login Attempt for user@bookstore.com
+2023-07-15 14:40:38.030 +09:30 [WRN] Invalid password for user.
+2023-07-15 14:40:53.672 +09:30 [INF] Login Attempt for user@bookstore.com
+2023-07-15 14:44:42.222 +09:30 [INF] Login Attempt for user@bookstore.com
+2023-07-15 14:48:10.830 +09:30 [INF] Now listening on: https://localhost:7037
+2023-07-15 14:48:10.920 +09:30 [INF] Now listening on: http://localhost:5056
+2023-07-15 14:48:10.934 +09:30 [INF] Application started. Press Ctrl+C to shut down.
+2023-07-15 14:48:10.936 +09:30 [INF] Hosting environment: Development
+2023-07-15 14:48:10.937 +09:30 [INF] Content root path: C:\Users\CXL\Desktop\BoolStoreApp\BookStoreApp.API\
+2023-07-15 14:49:38.084 +09:30 [INF] Login Attempt for user@bookstore.com
+2023-07-15 14:55:51.081 +09:30 [INF] Now listening on: https://localhost:7037
+2023-07-15 14:55:51.137 +09:30 [INF] Now listening on: http://localhost:5056
+2023-07-15 14:55:51.144 +09:30 [INF] Application started. Press Ctrl+C to shut down.
+2023-07-15 14:55:51.145 +09:30 [INF] Hosting environment: Development
+2023-07-15 14:55:51.147 +09:30 [INF] Content root path: C:\Users\CXL\Desktop\BoolStoreApp\BookStoreApp.API\
+2023-07-15 14:56:00.109 +09:30 [INF] Login Attempt for user@bookstore.com
+2023-07-15 14:59:03.713 +09:30 [INF] Login Attempt for user@bookstore.com
+2023-07-15 14:59:03.779 +09:30 [WRN] Invalid password for user.
+2023-07-15 14:59:13.446 +09:30 [INF] Login Attempt for user@bookstore.com
+2023-07-15 14:59:48.410 +09:30 [INF] Login Attempt for user@bookstore.com
+2023-07-15 15:03:14.990 +09:30 [INF] Now listening on: https://localhost:7037
+2023-07-15 15:03:15.084 +09:30 [INF] Now listening on: http://localhost:5056
+2023-07-15 15:03:15.094 +09:30 [INF] Application started. Press Ctrl+C to shut down.
+2023-07-15 15:03:15.096 +09:30 [INF] Hosting environment: Development
+2023-07-15 15:03:15.098 +09:30 [INF] Content root path: C:\Users\CXL\Desktop\BoolStoreApp\BookStoreApp.API\
+2023-07-15 15:04:10.635 +09:30 [INF] Login Attempt for user@bookstore.com
