@@ -10,5 +10,6 @@
     <WebStackScaffolding_LayoutPageFile />
     <WebStackScaffolding_DbContextTypeFullName>BookStoreApp.API.Data.BookStoreDbContext</WebStackScaffolding_DbContextTypeFullName>
     <WebStackScaffolding_IsAsyncSelected>False</WebStackScaffolding_IsAsyncSelected>
+    <NameOfLastUsedPublishProfile>AzureBookStoreAppAPI - Web Deploy</NameOfLastUsedPublishProfile>
   </PropertyGroup>
 </Project>
